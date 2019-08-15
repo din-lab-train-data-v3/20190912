@@ -1,0 +1,1 @@
+{"train_no": "6152", "has_breastfeeding_rooms": true, "carries_packages": false, "has_dining_rooms": false, "is_accessible": false, "has_bike_stands": false, "train_class": "1104", "stops": [{"station": "1000", "departs_at": "19:00", "arrives_at": "18:55"}, {"station": "7000", "departs_at": "21:47", "arrives_at": "21:45"}]}
